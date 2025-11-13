@@ -1,4 +1,4 @@
-int main(){
+void main(){
 	printf("Hello World");
-	return 0;
+	printf("Alessandro D'Orazi");
 }
